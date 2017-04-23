@@ -8,7 +8,10 @@
     "node": "^6.10.*"
   },
   "main": "index.js",
-  "scripts": "echo \"Error: no test specified\" && exit 1",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
   "author": "charmeleon",
   "license": "MIT",
   "repository": "https://github.com/charmeleon/node-starter"
