@@ -3,6 +3,9 @@
     "express": "^4.15.2",
     "node-fetch": "^1.6.3"
   },
+  "engines": {
+    "yarn": "^0.13.0"
+  },
   "main": "index.js",
   "scripts": "echo \"Error: no test specified\" && exit 1",
   "author": "charmeleon"
