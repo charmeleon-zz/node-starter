@@ -28,7 +28,7 @@ app.get('/api/:postalCode', function (req, res) {
     var url = "https://api.yelp.com/v3/businesses/search?" + qs;
     var params = {
         headers: {
-            Authorization: "Bearer YOUR_TOKEN_HERE"
+            Authorization: "Bearer W6DsQNPFIyD6bXdUTGnRj3F47JJQq60H1xXAX82YHQQ1GM-yedZcm0SR-VMFn726zLkvAR32d_DTp4WpCXxVvf5mrWCaUWrb51Z7A9UhbvjlqYrHrEKK9ZB6Ik_5WHYx"
         },
         method: "GET",
         // body: {
