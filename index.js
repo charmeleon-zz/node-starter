@@ -1,3 +1,4 @@
+const PORT = process.env.PORT || 3000;
 var express = require('express');
 var app = express();
 
@@ -53,4 +54,4 @@ app.get('/api/:postalCode', function (req, res) {
     });
 });
 
-app.listen(3000);
+app.listen(PORT);
