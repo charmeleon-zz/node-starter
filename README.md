@@ -4,9 +4,9 @@ This is a starting repository to facilitate communicating with the Yelp API
 
 ### Installation
 
-Locally, install [NodeJS](https://nodejs.org/en/) and [yarn](https://yarnpkg.com/en/)
+Locally, install [NodeJS](https://nodejs.org/en/)
 
-Then open a terminal, and run `yarn install` to install dependencies.
+Then open a terminal, and run `npm install` to install dependencies.
 
 ### Getting Started
 
